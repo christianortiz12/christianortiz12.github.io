@@ -555,7 +555,7 @@
             "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery4-3",
           "articleLayout": false,
