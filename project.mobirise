@@ -67,10 +67,10 @@
           },
           "_anchor": "header1-1",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": false,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-464-2000x1330-16.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ortiz_sb-2000x1336.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -224,8 +224,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-453-13-2000x1184-34-800x473-58.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-453-13-2000x1184-34.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-12-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -254,6 +274,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-4-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-453-18-2000x1333-8-800x533-45.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-453-18-2000x1333-8.jpg",
                 "caption": "Type caption here",
@@ -266,6 +296,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-453-19-2000x1248-2-800x499-48.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-453-19-2000x1248-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-3-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -290,6 +330,16 @@
                 "active": false
               },
               {
+                "tags": "Miscellaneous",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-christian-feature-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-christian-feature-3-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Sports",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -306,6 +356,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-453-25-2000x3000-27-800x1200-76.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-453-25-2000x3000-27.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-9-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -340,14 +400,14 @@
                 "active": false
               },
               {
-                "tags": "Nature",
+                "tags": "Night",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-453-31-2000x1333-36-800x533-44.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-453-31-2000x1333-36.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-christian-feature-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-christian-feature-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Sports",
@@ -376,6 +436,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-453-33-2000x1477-4-800x590-42.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-453-33-2000x1477-4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-1-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -410,6 +480,16 @@
                 "active": false
               },
               {
+                "tags": "Night",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-christian-feature-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-christian-feature-1-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Nature",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -418,6 +498,16 @@
                 "image": "@PROJECT_PATH@/assets/images/untitled-453-36-2000x1446-99.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Night",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-7-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Nature",
@@ -450,6 +540,16 @@
                 "active": false
               },
               {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -476,6 +576,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-460-2000x1330-12-800x532-87.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-460-2000x1330-12.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Night",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-11-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -540,12 +650,72 @@
                 "active": false
               },
               {
+                "tags": "Night",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-christian-feature-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-christian-feature-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-468-2000x1500-59-800x600-16.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-468-2000x1500-59.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Miscellaneous",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-5-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-6-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-8-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ortiz-sb-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ortiz-sb-10-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
